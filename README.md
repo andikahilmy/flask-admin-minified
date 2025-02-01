@@ -6,6 +6,9 @@ your references to `https://github.com/pallets-eco/flask-admin.git`.
 
 [![image](https://d322cqt584bo4o.cloudfront.net/flask-admin/localized.svg)](https://crowdin.com/project/flask-admin) [![image](https://github.com/pallets-eco/flask-admin/actions/workflows/tests.yaml/badge.svg?branch=master)](https://github.com/pallets-eco/flask-admin/actions/workflows/test.yaml)
 
+## DISCLAIMER
+This is for education purposes only with no purpose to derive this
+
 ## Pallets Community Ecosystem
 
 > [!IMPORTANT]\
@@ -86,7 +89,7 @@ To run the examples in your local environment:
     python app.py
     ```
 
-6. Check the Flask app running on <http://localhost:5000>.
+6. Check the Flask app running on <http://localhost:5001>.
 
 ## Documentation
 
