@@ -15,4 +15,4 @@ if not os.path.exists(database_path):
 if __name__ == "__main__":
     # Start app
     app.jinja_env.undefined = StrictUndefined
-    app.run(debug=True)
+    app.run(debug=True, port=5001)
