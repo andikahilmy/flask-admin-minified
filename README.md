@@ -71,25 +71,19 @@ To run the examples in your local environment:
     source .venv/bin/activate
     ```
 
-3. Navigate into the SQLAlchemy example folder:
-
-    ```bash
-    cd examples/sqla
-    ```
-
-4. Install requirements:
+3. Install requirements:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-5. Run the application:
+4. Run the application:
 
     ```bash
     python app.py
     ```
 
-6. Check the Flask app running on <http://localhost:5001>.
+5. Check the Flask app running on <http://localhost:5001>.
 
 ## Documentation
 
